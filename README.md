@@ -1,1 +1,1 @@
-# Online-Banking-System-using C Programming Lalnguage
+# Online-Banking-System-using C Programming Language
